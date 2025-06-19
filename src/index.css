@@ -1,0 +1,70 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+/* 
+@font-face {
+  font-family: 'Mukta';
+  src: url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+/* Grid background pattern */
+/* body {
+  background-color: #ffffff;
+  background-image: 
+    linear-gradient(rgba(2, 1, 1, 0.1) 1px, transparent 0.5px),
+    linear-gradient(90deg, rgba(5, 4, 5, 0.1) 1px, transparent 0.5px);
+  background-size: 30px 30px;
+  background-position: center center;
+} */
+
+/* @layer utilities {
+  .font-mukta {
+    font-family: var(--font-mukta);
+  }
+  
+  .mukta-extralight {
+    font-family: var(--font-mukta);
+    font-weight: 200;
+  }
+
+  .mukta-light {
+    font-family: var(--font-mukta);
+    font-weight: 300;
+  }
+
+  .mukta-regular {
+    font-family: var(--font-mukta);
+    font-weight: 400;
+  }
+
+  .mukta-medium {
+    font-family: var(--font-mukta);
+    font-weight: 500;
+  }
+
+  .mukta-semibold {
+    font-family: var(--font-mukta);
+    font-weight: 600;
+  }
+
+  .mukta-bold {
+    font-family: var(--font-mukta);
+    font-weight: 700;
+  }
+
+  .mukta-extrabold {
+    font-family: var(--font-mukta);
+    font-weight: 800;
+  }
+} */
+/*  
+@layer base {
+  * {
+    border-color: var(--tw-border-opacity, 1) rgb(229 231 235 / var(--tw-border-opacity, 1));
+  }
+  html,
+  body {
+    @apply: no-scrollbar;
+  }
+} */
